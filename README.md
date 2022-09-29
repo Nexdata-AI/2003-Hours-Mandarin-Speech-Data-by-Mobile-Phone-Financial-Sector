@@ -1,4 +1,4 @@
-# 2003-Hours-Mandarin-Speech-Data-by-Mobile-Phone---Financial-Sector
+# 2003-Hours-Mandarin-Speech-Data-by-Mobile-Phone-Financial-Sector
 https://www.datatang.ai/datasets/1193
 
 ## Description
