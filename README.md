@@ -1,8 +1,10 @@
 # 2003-Hours-Mandarin-Speech-Data-by-Mobile-Phone-Financial-Sector
-https://www.datatang.ai/datasets/1193
+
 
 ## Description
 It collects 2,000 speakers' data from 8 provinces of China. 944 males and 1,056 females. The recording contents are sentences in the financial field.Annotated texts are transcribed and proofread by professional annotators.
+
+For more details, please refer to the link: https://www.datatang.ai/datasets/1193
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
@@ -24,3 +26,6 @@ Mandarin
 
 ## Application scenarios
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
