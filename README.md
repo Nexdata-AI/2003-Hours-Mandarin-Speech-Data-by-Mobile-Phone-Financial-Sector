@@ -4,7 +4,8 @@
 ## Description
 It collects 2,000 speakers' data from 8 provinces of China. 944 males and 1,056 females. The recording contents are sentences in the financial field.Annotated texts are transcribed and proofread by professional annotators.
 
-For more details, please refer to the link: https://www.datatang.ai/datasets/1193
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1193?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
